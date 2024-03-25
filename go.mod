@@ -8,7 +8,7 @@ require gopkg.in/yaml.v2 v2.4.0
 
 require (
 	github.com/clbanning/mxj v1.8.4
-	github.com/expr-lang/expr v1.15.7
+	github.com/expr-lang/expr v1.16.2
 	github.com/stretchr/testify v1.8.4
 )
 
